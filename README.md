@@ -12,7 +12,7 @@ O GitHub Pages usa sua construção Jekyll existente apenas para transformar os 
 
 O painel e os dados continuam no servidor original. A página consulta os dados ao abrir e ao recuperar o foco; quando falha, mostra o conteúdo da última publicação com aviso. Atualizações do painel são refletidas no navegador; atualizar o HTML pré-renderizado para robôs sem JavaScript exige novo build/publicação.
 
-Os eventos do GitHub somente são enviados após consentimento. Recusar impede cliques, visualizações e compartilhamentos de serem enviados. Cada UUID identifica uma ação, não uma pessoa. Não coletamos IP bruto ou localização precisa. Os totais do painel incluem dados históricos e cliques agregados do site original: não equivalem a visitantes únicos. Texto para validação institucional de privacidade quando os dados da empresa forem fornecidos.
+Os eventos da Central no GitHub são registrados automaticamente de forma agregada. Não usamos cookies de rastreamento, identificadores de visitantes, IP bruto, localização precisa ou parâmetros de campanha. Cada UUID deduplica uma ação, não uma pessoa. Os dados históricos foram preservados; ações não registradas antes desta atualização não podem ser recuperadas.
 
 Campanhas e cartões já têm início e término; o término é a validade, sem criar um segundo campo expiresAt divergente. O painel oferece Campanha sazonal, Catálogo, Nova unidade, Vaga de emprego e Contato comercial. Campanhas vigentes, produtos e canais adicionais dependem de conteúdo confirmado.
 
