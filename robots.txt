@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /central/
+Sitemap: https://refrimaquinas-of.github.io/central/sitemap.xml
