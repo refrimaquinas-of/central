@@ -1,0 +1,8 @@
+# Central Refrimáquinas
+
+Cópia independente para GitHub Pages. Atendimento, cinco unidades, fotos e vídeos locais, redes sociais, rotas, avaliações, compartilhamento e QR Code.
+
+Site: https://mrkrefrimaquinas-bit.github.io/central-refrimaquinas/
+
+Sem painel administrativo ou coleta de estatísticas. Conteúdo público conferido em 14/09/2026.
+
