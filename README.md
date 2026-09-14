@@ -6,7 +6,7 @@ Painel: https://refrimaquinas-central-oficial.refrimaquinas.chatgpt.site/admin/l
 
 ## Publicação de 14/09/2026
 
-Páginas pré-renderizadas com endereço, telefone e horário no HTML inicial; metadados e canonical por rota; sitemap; página de erro própria; busca e filtros de unidades; WhatsApp por unidade; mapas sob demanda; avaliações; layout responsivo; imagens locais otimizadas; duas fontes; QR Code carregado sob demanda.
+Páginas pré-renderizadas com endereço, telefone e horário no HTML inicial; metadados e canonical por rota; sitemap; página de erro própria; busca e filtros de unidades; WhatsApp central com mensagem inicial Olá!; mapas sob demanda; avaliações; layout responsivo; imagens locais otimizadas; duas fontes; QR Code carregado sob demanda.
 
 O GitHub Pages usa sua construção Jekyll existente apenas para transformar os arquivos page-*.html em rotas com permalink. Não adicionar .nojekyll sem antes mudar a estratégia de publicação: isso impediria a geração das rotas. Os arquivos já chegam pré-renderizados, sem necessidade de execução React no servidor do GitHub.
 
