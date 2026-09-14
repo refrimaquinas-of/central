@@ -17,3 +17,8 @@ Os eventos do GitHub somente são enviados após consentimento. Recusar impede c
 Campanhas e cartões já têm início e término; o término é a validade, sem criar um segundo campo expiresAt divergente. O painel oferece Campanha sazonal, Catálogo, Nova unidade, Vaga de emprego e Contato comercial. Campanhas vigentes, produtos e canais adicionais dependem de conteúdo confirmado.
 
 A equipe pediu para manter domínio próprio, dados institucionais, ano de fundação, campanhas e catálogo, e configuração de contas individuais pendentes. Nenhum desses dados foi inventado. O acesso administrativo foi preservado no rodapé por solicitação expressa anterior da equipe; a segurança depende da autenticação, não de esconder o link.
+
+## Acesso offline
+
+O botão Disponibilizar para acesso offline baixa as páginas e recursos essenciais somente por solicitação. O vídeo não é baixado para uso offline. Os dados offline refletem a última publicação, com aviso quando a API não pode ser consultada. As APIs administrativas e serviços externos não entram no cache.
+
